@@ -1,0 +1,9 @@
+name: ObsiSpawner
+author: ThisIsMac
+version: 1.0
+main: fr.thisismac.spawner.Core
+depend: [Factions, WorldGuard]
+commands:
+  obsispawner:
+    syntax: /obsispawner
+    description: show spawner of player
